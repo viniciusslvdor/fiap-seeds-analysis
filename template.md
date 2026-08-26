@@ -13,9 +13,9 @@
 
 ## Professors:
 ### Tutor
-- <a href="https://www.linkedin.com/in/">Tutor name</a>
+- Sabrina Otoni
 ### Coordinator
-- <a href="https://www.linkedin.com/in/">Coordinator name</a>
+- André Godoi Chiovato
 
 
 ## Description
